@@ -1,0 +1,29 @@
+[
+    {
+        "role": "STUDENT",
+        "password": "tsukiden+",
+        "username": "jatillo",
+        "email": "jatillo@tspi.com.ph",
+        "userId": 1,
+        "firstname": "Jake",
+        "lastname": "Atillo"
+    },
+    {
+        "role": "ADMIN",
+        "password": "tsukiden+",
+        "username": "dinsular",
+        "email": "dinsular@tspi.com.ph",
+        "userId": 2,
+        "firstname": "Daniel",
+        "lastname": "Insular"
+    },
+    {
+        "role": "INSTRUCTOR",
+        "password": "tsukiden+",
+        "username": "junite",
+        "email": "junite@tspi.com.ph",
+        "userId": 3,
+        "firstname": "John Dale",
+        "lastname": "Unite"
+    }
+]
